@@ -4,6 +4,12 @@ AI doctor assistant  mobile app
 
 ## Getting Started
 
+# Introduction
+
+<center > <img  width="500" src ="./img/login.png "/> </center>
+
+The Medical Diagnosis Assistance System is a web application designed to assist doctors in diagnosing medical conditions more efficiently. It integrates various technologies, including Laravel 10 for backend, Flutter for Mobile and the ChatGPT language model, to provide comprehensive support for medical diagnosis based on patient cases, medical test results, medical history, and other relevant inputs.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
