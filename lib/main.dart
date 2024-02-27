@@ -1,3 +1,4 @@
+import 'package:ai_doctor_assistant_mobile_app/secreens/DashBoard.dart';
 import 'package:ai_doctor_assistant_mobile_app/secreens/Login.dart';
 import 'package:flutter/material.dart';
 
@@ -17,6 +18,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/login',
       routes: {
         '/login': (context) => const Login(),
+        '/dashboard': (context) => const DashBoard(),
       },
       theme: ThemeData(
         // This is the theme of your application.
