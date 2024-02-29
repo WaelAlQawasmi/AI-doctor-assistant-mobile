@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 class DashBoard extends StatefulWidget {
   const DashBoard({Key? key}) : super(key: key);
 
@@ -13,7 +14,10 @@ class _DashBoardState extends State<DashBoard> {
       body: Container(
         child: Column(
           children: [
-
+            Image.network(''),
+            SizedBox(
+              child: Text("user name"),
+            )
           ],
         ),
       ),
