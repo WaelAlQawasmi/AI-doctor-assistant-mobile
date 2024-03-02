@@ -17,6 +17,8 @@ class _DashBoardState extends State<DashBoard> {
             Image.network(''),
             SizedBox(
               child: Text("user name"),
+            ), const SizedBox(
+              child: Text("user packages"),
             )
           ],
         ),
